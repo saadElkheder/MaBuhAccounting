@@ -1,0 +1,12 @@
+D:\MaBuh\MaBuh\bin\Debug\MaBuh.exe.config
+D:\MaBuh\MaBuh\bin\Debug\MaBuh.exe
+D:\MaBuh\MaBuh\bin\Debug\MaBuh.pdb
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.csprojResolveAssemblyReference.cache
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.MainWindow.resources
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.Properties.Resources.resources
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.csproj.GenerateResource.Cache
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.exe
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.pdb
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.Salary.resources
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.MedicineDays.resources
+D:\MaBuh\MaBuh\obj\Debug\MaBuh.Vacation.resources
